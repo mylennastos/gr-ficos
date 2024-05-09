@@ -1,0 +1,840 @@
+2024-04- 22 11:04:51: ; Temperatura interna central: 41.60C
+2024-04- 22 11:04:51: ; Temperatura interna lateral: 40.80C
+2024-04- 22 11:04:51: ; Temperatura do chassi: 38.25C
+2024-04- 22 11:04:51: ; Temperatura do Sensor IR: 43.75C
+2024-04- 22 11:11:01: ; Temperatura interna central: 41.60C
+2024-04- 22 11:11:01: ; Temperatura interna lateral: 40.20C
+2024-04- 22 11:11:01: ; Temperatura do chassi: 36.25C
+2024-04- 22 11:11:01: ; Temperatura do Sensor IR: 41.75C
+2024-04- 22 11:12:01: ; Temperatura interna central: 41.30C
+2024-04- 22 11:12:01: ; Temperatura interna lateral: 39.70C
+2024-04- 22 11:12:01: ; Temperatura do chassi: 36.75C
+2024-04- 22 11:12:01: ; Temperatura do Sensor IR: 40.75C
+2024-04- 22 11:13:01: ; Temperatura interna central: 41.00C
+2024-04- 22 11:13:01: ; Temperatura interna lateral: 39.50C
+2024-04- 22 11:13:01: ; Temperatura do chassi: 36.75C
+2024-04- 22 11:13:01: ; Temperatura do Sensor IR: 41.50C
+2024-04- 22 11:14:01: ; Temperatura interna central: 40.90C
+2024-04- 22 11:14:01: ; Temperatura interna lateral: 39.40C
+2024-04- 22 11:14:01: ; Temperatura do chassi: 37.00C
+2024-04- 22 11:14:01: ; Temperatura do Sensor IR: 42.75C
+2024-04- 22 11:15:01: ; Temperatura interna central: 40.90C
+2024-04- 22 11:15:01: ; Temperatura interna lateral: 39.30C
+2024-04- 22 11:15:01: ; Temperatura do chassi: 37.00C
+2024-04- 22 11:15:01: ; Temperatura do Sensor IR: 44.00C
+2024-04- 22 11:16:01: ; Temperatura interna central: 41.00C
+2024-04- 22 11:16:01: ; Temperatura interna lateral: 39.40C
+2024-04- 22 11:16:01: ; Temperatura do chassi: 37.00C
+2024-04- 22 11:16:01: ; Temperatura do Sensor IR: 45.00C
+2024-04- 22 11:17:01: ; Temperatura interna central: 41.00C
+2024-04- 22 11:17:01: ; Temperatura interna lateral: 39.50C
+2024-04- 22 11:17:01: ; Temperatura do chassi: 37.25C
+2024-04- 22 11:17:01: ; Temperatura do Sensor IR: 46.00C
+2024-04- 22 11:18:01: ; Temperatura interna central: 41.10C
+2024-04- 22 11:18:01: ; Temperatura interna lateral: 39.80C
+2024-04- 22 11:18:01: ; Temperatura do chassi: 37.75C
+2024-04- 22 11:18:01: ; Temperatura do Sensor IR: 47.25C
+2024-04- 22 11:19:01: ; Temperatura interna central: 41.20C
+2024-04- 22 11:19:01: ; Temperatura interna lateral: 40.20C
+2024-04- 22 11:19:01: ; Temperatura do chassi: 37.50C
+2024-04- 22 11:19:01: ; Temperatura do Sensor IR: 48.75C
+2024-04- 22 11:20:01: ; Temperatura interna central: 41.40C
+2024-04- 22 11:20:01: ; Temperatura interna lateral: 40.80C
+2024-04- 22 11:20:01: ; Temperatura do chassi: 38.00C
+2024-04- 22 11:20:01: ; Temperatura do Sensor IR: 48.75C
+2024-04- 22 11:21:01: ; Temperatura interna central: 41.60C
+2024-04- 22 11:21:01: ; Temperatura interna lateral: 41.10C
+2024-04- 22 11:21:01: ; Temperatura do chassi: 37.75C
+2024-04- 22 11:21:01: ; Temperatura do Sensor IR: 49.00C
+2024-04- 22 11:22:01: ; Temperatura interna central: 41.80C
+2024-04- 22 11:22:01: ; Temperatura interna lateral: 41.40C
+2024-04- 22 11:22:01: ; Temperatura do chassi: 38.25C
+2024-04- 22 11:22:01: ; Temperatura do Sensor IR: 48.75C
+2024-04- 22 11:23:01: ; Temperatura interna central: 42.00C
+2024-04- 22 11:23:01: ; Temperatura interna lateral: 41.50C
+2024-04- 22 11:23:01: ; Temperatura do chassi: 38.00C
+2024-04- 22 11:23:01: ; Temperatura do Sensor IR: 48.50C
+2024-04- 22 11:24:01: ; Temperatura interna central: 42.00C
+2024-04- 22 11:24:01: ; Temperatura interna lateral: 41.60C
+2024-04- 22 11:24:01: ; Temperatura do chassi: 38.00C
+2024-04- 22 11:24:01: ; Temperatura do Sensor IR: 48.75C
+2024-04- 22 11:25:01: ; Temperatura interna central: 42.10C
+2024-04- 22 11:25:01: ; Temperatura interna lateral: 41.50C
+2024-04- 22 11:25:01: ; Temperatura do chassi: 37.50C
+2024-04- 22 11:25:01: ; Temperatura do Sensor IR: 50.00C
+2024-04- 22 11:26:01: ; Temperatura interna central: 42.20C
+2024-04- 22 11:26:01: ; Temperatura interna lateral: 41.50C
+2024-04- 22 11:26:01: ; Temperatura do chassi: 38.00C
+2024-04- 22 11:26:01: ; Temperatura do Sensor IR: 50.50C
+2024-04- 22 11:27:01: ; Temperatura interna central: 42.20C
+2024-04- 22 11:27:01: ; Temperatura interna lateral: 41.50C
+2024-04- 22 11:27:01: ; Temperatura do chassi: 38.50C
+2024-04- 22 11:27:01: ; Temperatura do Sensor IR: 51.50C
+2024-04- 22 11:28:01: ; Temperatura interna central: 42.50C
+2024-04- 22 11:28:01: ; Temperatura interna lateral: 41.70C
+2024-04- 22 11:28:01: ; Temperatura do chassi: 38.75C
+2024-04- 22 11:28:01: ; Temperatura do Sensor IR: 52.75C
+2024-04- 22 11:29:01: ; Temperatura interna central: 42.80C
+2024-04- 22 11:29:01: ; Temperatura interna lateral: 42.00C
+2024-04- 22 11:29:01: ; Temperatura do chassi: 39.25C
+2024-04- 22 11:29:01: ; Temperatura do Sensor IR: 53.50C
+2024-04- 22 11:30:01: ; Temperatura interna central: 43.10C
+2024-04- 22 11:30:01: ; Temperatura interna lateral: 42.60C
+2024-04- 22 11:30:01: ; Temperatura do chassi: 39.25C
+2024-04- 22 11:30:01: ; Temperatura do Sensor IR: 55.00C
+2024-04- 22 11:31:01: ; Temperatura interna central: 43.40C
+2024-04- 22 11:31:01: ; Temperatura interna lateral: 43.20C
+2024-04- 22 11:31:01: ; Temperatura do chassi: 39.50C
+2024-04- 22 11:31:01: ; Temperatura do Sensor IR: 54.25C
+2024-04- 22 11:32:01: ; Temperatura interna central: 43.60C
+2024-04- 22 11:32:01: ; Temperatura interna lateral: 43.70C
+2024-04- 22 11:32:01: ; Temperatura do chassi: 40.00C
+2024-04- 22 11:32:01: ; Temperatura do Sensor IR: 53.75C
+2024-04- 22 11:33:01: ; Temperatura interna central: 43.80C
+2024-04- 22 11:33:01: ; Temperatura interna lateral: 44.00C
+2024-04- 22 11:33:01: ; Temperatura do chassi: 40.25C
+2024-04- 22 11:33:01: ; Temperatura do Sensor IR: 52.75C
+2024-04- 22 11:34:01: ; Temperatura interna central: 44.00C
+2024-04- 22 11:34:01: ; Temperatura interna lateral: 44.20C
+2024-04- 22 11:34:01: ; Temperatura do chassi: 40.50C
+2024-04- 22 11:34:01: ; Temperatura do Sensor IR: 53.00C
+2024-04- 22 11:35:01: ; Temperatura interna central: 44.30C
+2024-04- 22 11:35:01: ; Temperatura interna lateral: 44.30C
+2024-04- 22 11:35:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:35:01: ; Temperatura do Sensor IR: 52.75C
+2024-04- 22 11:36:01: ; Temperatura interna central: 44.40C
+2024-04- 22 11:36:01: ; Temperatura interna lateral: 44.30C
+2024-04- 22 11:36:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:36:01: ; Temperatura do Sensor IR: 53.25C
+2024-04- 22 11:37:01: ; Temperatura interna central: 44.30C
+2024-04- 22 11:37:01: ; Temperatura interna lateral: 44.10C
+2024-04- 22 11:37:01: ; Temperatura do chassi: 40.50C
+2024-04- 22 11:37:01: ; Temperatura do Sensor IR: 54.50C
+2024-04- 22 11:38:01: ; Temperatura interna central: 44.30C
+2024-04- 22 11:38:01: ; Temperatura interna lateral: 43.90C
+2024-04- 22 11:38:01: ; Temperatura do chassi: 40.25C
+2024-04- 22 11:38:01: ; Temperatura do Sensor IR: 54.75C
+2024-04- 22 11:39:01: ; Temperatura interna central: 44.30C
+2024-04- 22 11:39:01: ; Temperatura interna lateral: 43.90C
+2024-04- 22 11:39:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:39:01: ; Temperatura do Sensor IR: 54.75C
+2024-04- 22 11:40:01: ; Temperatura interna central: 44.30C
+2024-04- 22 11:40:01: ; Temperatura interna lateral: 44.00C
+2024-04- 22 11:40:01: ; Temperatura do chassi: 41.00C
+2024-04- 22 11:40:01: ; Temperatura do Sensor IR: 55.25C
+2024-04- 22 11:41:01: ; Temperatura interna central: 44.40C
+2024-04- 22 11:41:01: ; Temperatura interna lateral: 44.30C
+2024-04- 22 11:41:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:41:01: ; Temperatura do Sensor IR: 56.00C
+2024-04- 22 11:42:01: ; Temperatura interna central: 44.50C
+2024-04- 22 11:42:01: ; Temperatura interna lateral: 44.50C
+2024-04- 22 11:42:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:42:01: ; Temperatura do Sensor IR: 55.50C
+2024-04- 22 11:43:01: ; Temperatura interna central: 44.60C
+2024-04- 22 11:43:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:43:01: ; Temperatura do chassi: 41.00C
+2024-04- 22 11:43:01: ; Temperatura do Sensor IR: 55.25C
+2024-04- 22 11:44:01: ; Temperatura interna central: 44.70C
+2024-04- 22 11:44:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:44:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:44:01: ; Temperatura do Sensor IR: 55.00C
+2024-04- 22 11:45:01: ; Temperatura interna central: 44.70C
+2024-04- 22 11:45:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:45:01: ; Temperatura do chassi: 40.25C
+2024-04- 22 11:45:01: ; Temperatura do Sensor IR: 55.25C
+2024-04- 22 11:46:01: ; Temperatura interna central: 44.70C
+2024-04- 22 11:46:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:46:01: ; Temperatura do chassi: 41.00C
+2024-04- 22 11:46:01: ; Temperatura do Sensor IR: 52.75C
+2024-04- 22 11:47:01: ; Temperatura interna central: 44.70C
+2024-04- 22 11:47:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:47:01: ; Temperatura do chassi: 40.75C
+2024-04- 22 11:47:01: ; Temperatura do Sensor IR: 55.50C
+2024-04- 22 11:48:01: ; Temperatura interna central: 44.70C
+2024-04- 22 11:48:01: ; Temperatura interna lateral: 44.50C
+2024-04- 22 11:48:01: ; Temperatura do chassi: 41.25C
+2024-04- 22 11:48:01: ; Temperatura do Sensor IR: 56.25C
+2024-04- 22 11:49:01: ; Temperatura interna central: 44.80C
+2024-04- 22 11:49:01: ; Temperatura interna lateral: 44.50C
+2024-04- 22 11:49:01: ; Temperatura do chassi: 41.50C
+2024-04- 22 11:49:01: ; Temperatura do Sensor IR: 55.75C
+2024-04- 22 11:50:01: ; Temperatura interna central: 45.00C
+2024-04- 22 11:50:01: ; Temperatura interna lateral: 44.70C
+2024-04- 22 11:50:01: ; Temperatura do chassi: 41.75C
+2024-04- 22 11:50:01: ; Temperatura do Sensor IR: 56.50C
+2024-04- 22 11:51:01: ; Temperatura interna central: 45.00C
+2024-04- 22 11:51:01: ; Temperatura interna lateral: 45.00C
+2024-04- 22 11:51:01: ; Temperatura do chassi: 41.75C
+2024-04- 22 11:51:01: ; Temperatura do Sensor IR: 57.25C
+2024-04- 22 11:52:01: ; Temperatura interna central: 45.30C
+2024-04- 22 11:52:01: ; Temperatura interna lateral: 45.10C
+2024-04- 22 11:52:01: ; Temperatura do chassi: 41.25C
+2024-04- 22 11:52:01: ; Temperatura do Sensor IR: 59.25C
+2024-04- 22 11:53:01: ; Temperatura interna central: 45.50C
+2024-04- 22 11:53:01: ; Temperatura interna lateral: 45.40C
+2024-04- 22 11:53:01: ; Temperatura do chassi: 41.00C
+2024-04- 22 11:53:01: ; Temperatura do Sensor IR: 58.50C
+2024-04- 22 11:54:01: ; Temperatura interna central: 45.60C
+2024-04- 22 11:54:01: ; Temperatura interna lateral: 45.70C
+2024-04- 22 11:54:01: ; Temperatura do chassi: 41.25C
+2024-04- 22 11:54:01: ; Temperatura do Sensor IR: 58.50C
+2024-04- 22 11:55:01: ; Temperatura interna central: 45.70C
+2024-04- 22 11:55:01: ; Temperatura interna lateral: 46.00C
+2024-04- 22 11:55:01: ; Temperatura do chassi: 41.50C
+2024-04- 22 11:55:01: ; Temperatura do Sensor IR: 58.00C
+2024-04- 22 11:56:01: ; Temperatura interna central: 45.80C
+2024-04- 22 11:56:01: ; Temperatura interna lateral: 46.10C
+2024-04- 22 11:56:01: ; Temperatura do chassi: 41.50C
+2024-04- 22 11:56:01: ; Temperatura do Sensor IR: 58.00C
+2024-04- 22 11:57:01: ; Temperatura interna central: 45.80C
+2024-04- 22 11:57:01: ; Temperatura interna lateral: 46.00C
+2024-04- 22 11:57:01: ; Temperatura do chassi: 41.25C
+2024-04- 22 11:57:01: ; Temperatura do Sensor IR: 55.75C
+2024-04- 22 11:58:01: ; Temperatura interna central: 45.90C
+2024-04- 22 11:58:01: ; Temperatura interna lateral: 45.90C
+2024-04- 22 11:58:01: ; Temperatura do chassi: 41.75C
+2024-04- 22 11:58:01: ; Temperatura do Sensor IR: 56.00C
+2024-04- 22 11:59:01: ; Temperatura interna central: 46.00C
+2024-04- 22 11:59:01: ; Temperatura interna lateral: 45.60C
+2024-04- 22 11:59:01: ; Temperatura do chassi: 42.25C
+2024-04- 22 11:59:01: ; Temperatura do Sensor IR: 56.50C
+2024-04- 22 12:00:01: ; Temperatura interna central: 46.10C
+2024-04- 22 12:00:01: ; Temperatura interna lateral: 45.30C
+2024-04- 22 12:00:01: ; Temperatura do chassi: 42.00C
+2024-04- 22 12:00:01: ; Temperatura do Sensor IR: 57.50C
+2024-04- 22 12:01:01: ; Temperatura interna central: 46.20C
+2024-04- 22 12:01:01: ; Temperatura interna lateral: 45.10C
+2024-04- 22 12:01:01: ; Temperatura do chassi: 42.00C
+2024-04- 22 12:01:01: ; Temperatura do Sensor IR: 58.50C
+2024-04- 22 12:02:01: ; Temperatura interna central: 46.40C
+2024-04- 22 12:02:01: ; Temperatura interna lateral: 45.20C
+2024-04- 22 12:02:01: ; Temperatura do chassi: 42.50C
+2024-04- 22 12:02:01: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 12:03:01: ; Temperatura interna central: 46.40C
+2024-04- 22 12:03:01: ; Temperatura interna lateral: 45.50C
+2024-04- 22 12:03:01: ; Temperatura do chassi: 42.25C
+2024-04- 22 12:03:01: ; Temperatura do Sensor IR: 60.00C
+2024-04- 22 12:04:01: ; Temperatura interna central: 46.50C
+2024-04- 22 12:04:01: ; Temperatura interna lateral: 45.80C
+2024-04- 22 12:04:01: ; Temperatura do chassi: 42.25C
+2024-04- 22 12:04:01: ; Temperatura do Sensor IR: 59.50C
+2024-04- 22 12:05:01: ; Temperatura interna central: 46.50C
+2024-04- 22 12:05:01: ; Temperatura interna lateral: 46.00C
+2024-04- 22 12:05:01: ; Temperatura do chassi: 42.25C
+2024-04- 22 12:05:01: ; Temperatura do Sensor IR: 59.25C
+2024-04- 22 12:06:01: ; Temperatura interna central: 46.50C
+2024-04- 22 12:06:01: ; Temperatura interna lateral: 46.10C
+2024-04- 22 12:06:01: ; Temperatura do chassi: 42.00C
+2024-04- 22 12:06:01: ; Temperatura do Sensor IR: 59.25C
+2024-04- 22 12:07:01: ; Temperatura interna central: 46.50C
+2024-04- 22 12:07:02: ; Temperatura interna lateral: 46.10C
+2024-04- 22 12:07:02: ; Temperatura do chassi: 42.00C
+2024-04- 22 12:07:02: ; Temperatura do Sensor IR: 57.25C
+2024-04- 22 12:08:02: ; Temperatura interna central: 46.40C
+2024-04- 22 12:08:02: ; Temperatura interna lateral: 46.10C
+2024-04- 22 12:08:02: ; Temperatura do chassi: 42.25C
+2024-04- 22 12:08:02: ; Temperatura do Sensor IR: 57.50C
+2024-04- 22 12:09:02: ; Temperatura interna central: 46.40C
+2024-04- 22 12:09:02: ; Temperatura interna lateral: 45.90C
+2024-04- 22 12:09:02: ; Temperatura do chassi: 42.00C
+2024-04- 22 12:09:02: ; Temperatura do Sensor IR: 58.50C
+2024-04- 22 12:10:02: ; Temperatura interna central: 46.40C
+2024-04- 22 12:10:02: ; Temperatura interna lateral: 45.80C
+2024-04- 22 12:10:02: ; Temperatura do chassi: 42.50C
+2024-04- 22 12:10:02: ; Temperatura do Sensor IR: 58.75C
+2024-04- 22 12:11:02: ; Temperatura interna central: 46.40C
+2024-04- 22 12:11:02: ; Temperatura interna lateral: 45.80C
+2024-04- 22 12:11:02: ; Temperatura do chassi: 42.50C
+2024-04- 22 12:11:02: ; Temperatura do Sensor IR: 59.75C
+2024-04- 22 12:12:02: ; Temperatura interna central: 46.50C
+2024-04- 22 12:12:02: ; Temperatura interna lateral: 46.00C
+2024-04- 22 12:12:02: ; Temperatura do chassi: 43.00C
+2024-04- 22 12:12:02: ; Temperatura do Sensor IR: 59.50C
+2024-04- 22 12:13:02: ; Temperatura interna central: 46.50C
+2024-04- 22 12:13:02: ; Temperatura interna lateral: 46.40C
+2024-04- 22 12:13:02: ; Temperatura do chassi: 43.00C
+2024-04- 22 12:13:02: ; Temperatura do Sensor IR: 61.00C
+2024-04- 22 12:14:02: ; Temperatura interna central: 46.70C
+2024-04- 22 12:14:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:14:02: ; Temperatura do chassi: 43.00C
+2024-04- 22 12:14:02: ; Temperatura do Sensor IR: 60.50C
+2024-04- 22 12:15:02: ; Temperatura interna central: 46.80C
+2024-04- 22 12:15:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 12:15:02: ; Temperatura do chassi: 43.00C
+2024-04- 22 12:15:02: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 12:16:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:16:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 12:16:02: ; Temperatura do chassi: 42.75C
+2024-04- 22 12:16:02: ; Temperatura do Sensor IR: 60.00C
+2024-04- 22 12:17:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:17:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 12:17:02: ; Temperatura do chassi: 42.50C
+2024-04- 22 12:17:02: ; Temperatura do Sensor IR: 59.50C
+2024-04- 22 12:18:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:18:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:18:02: ; Temperatura do chassi: 42.75C
+2024-04- 22 12:18:02: ; Temperatura do Sensor IR: 59.00C
+2024-04- 22 12:19:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:19:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:19:02: ; Temperatura do chassi: 43.25C
+2024-04- 22 12:19:02: ; Temperatura do Sensor IR: 59.50C
+2024-04- 22 12:20:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:20:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:20:02: ; Temperatura do chassi: 43.25C
+2024-04- 22 12:20:02: ; Temperatura do Sensor IR: 59.75C
+2024-04- 22 12:21:02: ; Temperatura interna central: 46.90C
+2024-04- 22 12:21:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:21:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 12:21:02: ; Temperatura do Sensor IR: 60.00C
+2024-04- 22 12:22:02: ; Temperatura interna central: 47.00C
+2024-04- 22 12:22:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 12:22:02: ; Temperatura do chassi: 43.25C
+2024-04- 22 12:22:02: ; Temperatura do Sensor IR: 60.50C
+2024-04- 22 12:23:02: ; Temperatura interna central: 47.10C
+2024-04- 22 12:23:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:23:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 12:23:02: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 12:24:02: ; Temperatura interna central: 47.20C
+2024-04- 22 12:24:02: ; Temperatura interna lateral: 47.20C
+2024-04- 22 12:24:02: ; Temperatura do chassi: 44.00C
+2024-04- 22 12:24:02: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 12:25:02: ; Temperatura interna central: 47.40C
+2024-04- 22 12:25:02: ; Temperatura interna lateral: 47.40C
+2024-04- 22 12:25:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:25:02: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 12:26:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:26:02: ; Temperatura interna lateral: 47.40C
+2024-04- 22 12:26:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:26:02: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 12:27:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:27:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:27:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 12:27:02: ; Temperatura do Sensor IR: 61.00C
+2024-04- 22 12:28:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:28:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 12:28:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:28:02: ; Temperatura do Sensor IR: 59.25C
+2024-04- 22 12:29:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:29:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:29:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:29:02: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 12:30:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:30:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:30:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:30:02: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 12:31:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:31:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:31:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:31:02: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 12:32:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:32:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:32:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:32:02: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 12:33:02: ; Temperatura interna central: 47.50C
+2024-04- 22 12:33:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 12:33:02: ; Temperatura do chassi: 44.75C
+2024-04- 22 12:33:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 12:34:02: ; Temperatura interna central: 47.60C
+2024-04- 22 12:34:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 12:34:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:34:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 12:35:02: ; Temperatura interna central: 47.70C
+2024-04- 22 12:35:02: ; Temperatura interna lateral: 47.20C
+2024-04- 22 12:35:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:35:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 12:36:02: ; Temperatura interna central: 47.90C
+2024-04- 22 12:36:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:36:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:36:02: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 12:37:02: ; Temperatura interna central: 47.90C
+2024-04- 22 12:37:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:37:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:37:02: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 12:38:02: ; Temperatura interna central: 47.90C
+2024-04- 22 12:38:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:38:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:38:02: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 12:39:02: ; Temperatura interna central: 47.90C
+2024-04- 22 12:39:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 12:39:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:39:02: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 12:40:02: ; Temperatura interna central: 47.80C
+2024-04- 22 12:40:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:40:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:40:02: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 12:41:02: ; Temperatura interna central: 47.70C
+2024-04- 22 12:41:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:41:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:41:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 12:42:02: ; Temperatura interna central: 47.70C
+2024-04- 22 12:42:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 12:42:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:42:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 12:43:02: ; Temperatura interna central: 47.70C
+2024-04- 22 12:43:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 12:43:02: ; Temperatura do chassi: 44.75C
+2024-04- 22 12:43:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 12:44:02: ; Temperatura interna central: 47.80C
+2024-04- 22 12:44:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:44:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:44:02: ; Temperatura do Sensor IR: 64.75C
+2024-04- 22 12:45:02: ; Temperatura interna central: 48.00C
+2024-04- 22 12:45:02: ; Temperatura interna lateral: 47.20C
+2024-04- 22 12:45:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:45:02: ; Temperatura do Sensor IR: 64.50C
+2024-04- 22 12:46:02: ; Temperatura interna central: 48.20C
+2024-04- 22 12:46:02: ; Temperatura interna lateral: 47.50C
+2024-04- 22 12:46:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:46:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 12:47:02: ; Temperatura interna central: 48.30C
+2024-04- 22 12:47:02: ; Temperatura interna lateral: 47.50C
+2024-04- 22 12:47:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:47:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 12:48:02: ; Temperatura interna central: 48.30C
+2024-04- 22 12:48:02: ; Temperatura interna lateral: 47.50C
+2024-04- 22 12:48:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:48:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 12:49:02: ; Temperatura interna central: 48.30C
+2024-04- 22 12:49:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:49:02: ; Temperatura do chassi: 44.75C
+2024-04- 22 12:49:02: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 12:50:02: ; Temperatura interna central: 48.20C
+2024-04- 22 12:50:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 12:50:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 12:50:02: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 12:51:02: ; Temperatura interna central: 48.10C
+2024-04- 22 12:51:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:51:02: ; Temperatura do chassi: 44.75C
+2024-04- 22 12:51:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 12:52:02: ; Temperatura interna central: 48.10C
+2024-04- 22 12:52:02: ; Temperatura interna lateral: 46.50C
+2024-04- 22 12:52:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:52:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 12:53:02: ; Temperatura interna central: 48.10C
+2024-04- 22 12:53:02: ; Temperatura interna lateral: 46.50C
+2024-04- 22 12:53:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 12:53:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 12:54:02: ; Temperatura interna central: 48.10C
+2024-04- 22 12:54:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 12:54:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:54:02: ; Temperatura do Sensor IR: 64.50C
+2024-04- 22 12:55:02: ; Temperatura interna central: 48.10C
+2024-04- 22 12:55:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 12:55:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:55:02: ; Temperatura do Sensor IR: 65.25C
+2024-04- 22 12:56:02: ; Temperatura interna central: 48.30C
+2024-04- 22 12:56:02: ; Temperatura interna lateral: 47.20C
+2024-04- 22 12:56:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:56:02: ; Temperatura do Sensor IR: 64.50C
+2024-04- 22 12:57:02: ; Temperatura interna central: 48.40C
+2024-04- 22 12:57:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:57:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:57:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 12:58:02: ; Temperatura interna central: 48.40C
+2024-04- 22 12:58:02: ; Temperatura interna lateral: 47.40C
+2024-04- 22 12:58:02: ; Temperatura do chassi: 45.00C
+2024-04- 22 12:58:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 12:59:02: ; Temperatura interna central: 48.40C
+2024-04- 22 12:59:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 12:59:02: ; Temperatura do chassi: 44.75C
+2024-04- 22 12:59:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:00:02: ; Temperatura interna central: 48.30C
+2024-04- 22 13:00:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 13:00:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:00:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 13:01:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:01:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 13:01:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 13:01:02: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 13:02:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:02:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 13:02:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:02:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:03:02: ; Temperatura interna central: 48.00C
+2024-04- 22 13:03:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:03:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:03:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 13:04:02: ; Temperatura interna central: 47.90C
+2024-04- 22 13:04:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 13:04:02: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:04:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:05:02: ; Temperatura interna central: 47.90C
+2024-04- 22 13:05:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:05:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 13:05:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:06:02: ; Temperatura interna central: 47.90C
+2024-04- 22 13:06:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:06:02: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:06:02: ; Temperatura do Sensor IR: 64.50C
+2024-04- 22 13:07:02: ; Temperatura interna central: 48.00C
+2024-04- 22 13:07:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 13:07:02: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:07:02: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:08:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:08:02: ; Temperatura interna lateral: 47.20C
+2024-04- 22 13:08:02: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:08:02: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 13:09:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:09:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 13:09:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:09:02: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 13:10:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:10:02: ; Temperatura interna lateral: 47.00C
+2024-04- 22 13:10:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:10:02: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 13:11:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:11:02: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:11:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:11:02: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:12:02: ; Temperatura interna central: 48.00C
+2024-04- 22 13:12:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:12:02: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:12:02: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:13:02: ; Temperatura interna central: 48.00C
+2024-04- 22 13:13:02: ; Temperatura interna lateral: 46.60C
+2024-04- 22 13:13:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:13:02: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:14:02: ; Temperatura interna central: 47.90C
+2024-04- 22 13:14:02: ; Temperatura interna lateral: 46.50C
+2024-04- 22 13:14:02: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:14:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:15:02: ; Temperatura interna central: 48.00C
+2024-04- 22 13:15:02: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:15:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:15:02: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 13:16:02: ; Temperatura interna central: 48.10C
+2024-04- 22 13:16:02: ; Temperatura interna lateral: 46.80C
+2024-04- 22 13:16:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 13:16:02: ; Temperatura do Sensor IR: 64.00C
+2024-04- 22 13:17:02: ; Temperatura interna central: 48.20C
+2024-04- 22 13:17:02: ; Temperatura interna lateral: 47.10C
+2024-04- 22 13:17:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:17:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 13:18:02: ; Temperatura interna central: 48.30C
+2024-04- 22 13:18:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 13:18:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:18:02: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 13:19:02: ; Temperatura interna central: 48.40C
+2024-04- 22 13:19:02: ; Temperatura interna lateral: 47.50C
+2024-04- 22 13:19:02: ; Temperatura do chassi: 44.50C
+2024-04- 22 13:19:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:20:02: ; Temperatura interna central: 48.50C
+2024-04- 22 13:20:02: ; Temperatura interna lateral: 47.30C
+2024-04- 22 13:20:02: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:20:02: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:21:03: ; Temperatura interna central: 48.50C
+2024-04- 22 13:21:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 13:21:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:21:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:22:03: ; Temperatura interna central: 48.40C
+2024-04- 22 13:22:03: ; Temperatura interna lateral: 47.00C
+2024-04- 22 13:22:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:22:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:23:03: ; Temperatura interna central: 48.40C
+2024-04- 22 13:23:03: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:23:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:23:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 13:24:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:24:03: ; Temperatura interna lateral: 46.50C
+2024-04- 22 13:24:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:24:03: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:25:03: ; Temperatura interna central: 48.40C
+2024-04- 22 13:25:03: ; Temperatura interna lateral: 46.50C
+2024-04- 22 13:25:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 13:25:03: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:26:03: ; Temperatura interna central: 48.40C
+2024-04- 22 13:26:03: ; Temperatura interna lateral: 46.50C
+2024-04- 22 13:26:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:26:03: ; Temperatura do Sensor IR: 64.00C
+2024-04- 22 13:27:03: ; Temperatura interna central: 48.50C
+2024-04- 22 13:27:03: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:27:03: ; Temperatura do chassi: 44.75C
+2024-04- 22 13:27:03: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:28:03: ; Temperatura interna central: 48.60C
+2024-04- 22 13:28:03: ; Temperatura interna lateral: 47.00C
+2024-04- 22 13:28:03: ; Temperatura do chassi: 44.75C
+2024-04- 22 13:28:03: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 13:29:03: ; Temperatura interna central: 48.60C
+2024-04- 22 13:29:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 13:29:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:29:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 13:30:03: ; Temperatura interna central: 48.70C
+2024-04- 22 13:30:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 13:30:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 13:30:03: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 13:31:03: ; Temperatura interna central: 48.60C
+2024-04- 22 13:31:03: ; Temperatura interna lateral: 47.10C
+2024-04- 22 13:31:03: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:31:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:32:03: ; Temperatura interna central: 48.50C
+2024-04- 22 13:32:03: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:32:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:32:03: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 13:33:03: ; Temperatura interna central: 48.40C
+2024-04- 22 13:33:03: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:33:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:33:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:34:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:34:03: ; Temperatura interna lateral: 46.70C
+2024-04- 22 13:34:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:34:03: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 13:35:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:35:03: ; Temperatura interna lateral: 46.80C
+2024-04- 22 13:35:03: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:35:03: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 13:36:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:36:03: ; Temperatura interna lateral: 46.90C
+2024-04- 22 13:36:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:36:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 13:37:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:37:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 13:37:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 13:37:03: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 13:38:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:38:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 13:38:03: ; Temperatura do chassi: 43.75C
+2024-04- 22 13:38:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 13:39:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:39:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 13:39:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:39:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:40:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:40:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 13:40:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:40:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:41:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:41:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 13:41:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:41:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:42:03: ; Temperatura interna central: 48.10C
+2024-04- 22 13:42:03: ; Temperatura interna lateral: 47.60C
+2024-04- 22 13:42:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:42:03: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 13:43:03: ; Temperatura interna central: 48.00C
+2024-04- 22 13:43:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 13:43:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:43:03: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 13:44:03: ; Temperatura interna central: 47.90C
+2024-04- 22 13:44:03: ; Temperatura interna lateral: 47.30C
+2024-04- 22 13:44:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:44:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 13:45:03: ; Temperatura interna central: 47.80C
+2024-04- 22 13:45:03: ; Temperatura interna lateral: 47.30C
+2024-04- 22 13:45:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:45:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 13:46:03: ; Temperatura interna central: 47.80C
+2024-04- 22 13:46:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 13:46:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:46:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:47:03: ; Temperatura interna central: 47.90C
+2024-04- 22 13:47:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 13:47:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:47:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 13:48:03: ; Temperatura interna central: 48.00C
+2024-04- 22 13:48:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 13:48:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:48:03: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 13:49:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:49:03: ; Temperatura interna lateral: 48.40C
+2024-04- 22 13:49:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:49:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 13:50:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:50:03: ; Temperatura interna lateral: 48.60C
+2024-04- 22 13:50:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 13:50:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 13:51:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:51:03: ; Temperatura interna lateral: 48.70C
+2024-04- 22 13:51:03: ; Temperatura do chassi: 42.75C
+2024-04- 22 13:51:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:52:03: ; Temperatura interna central: 48.30C
+2024-04- 22 13:52:03: ; Temperatura interna lateral: 48.70C
+2024-04- 22 13:52:03: ; Temperatura do chassi: 42.75C
+2024-04- 22 13:52:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 13:53:03: ; Temperatura interna central: 48.20C
+2024-04- 22 13:53:03: ; Temperatura interna lateral: 48.60C
+2024-04- 22 13:53:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 13:53:03: ; Temperatura do Sensor IR: 60.50C
+2024-04- 22 13:54:03: ; Temperatura interna central: 48.10C
+2024-04- 22 13:54:03: ; Temperatura interna lateral: 48.40C
+2024-04- 22 13:54:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:54:03: ; Temperatura do Sensor IR: 61.00C
+2024-04- 22 13:55:03: ; Temperatura interna central: 48.00C
+2024-04- 22 13:55:03: ; Temperatura interna lateral: 48.20C
+2024-04- 22 13:55:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:55:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 13:56:03: ; Temperatura interna central: 47.90C
+2024-04- 22 13:56:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 13:56:03: ; Temperatura do chassi: 42.75C
+2024-04- 22 13:56:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 13:57:03: ; Temperatura interna central: 47.80C
+2024-04- 22 13:57:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 13:57:03: ; Temperatura do chassi: 42.75C
+2024-04- 22 13:57:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 13:58:03: ; Temperatura interna central: 47.80C
+2024-04- 22 13:58:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 13:58:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:58:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 13:59:03: ; Temperatura interna central: 47.70C
+2024-04- 22 13:59:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 13:59:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 13:59:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 14:00:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:00:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 14:00:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:00:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 14:01:03: ; Temperatura interna central: 47.60C
+2024-04- 22 14:01:03: ; Temperatura interna lateral: 48.10C
+2024-04- 22 14:01:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 14:01:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 14:02:03: ; Temperatura interna central: 47.50C
+2024-04- 22 14:02:03: ; Temperatura interna lateral: 48.00C
+2024-04- 22 14:02:03: ; Temperatura do chassi: 42.75C
+2024-04- 22 14:02:03: ; Temperatura do Sensor IR: 60.00C
+2024-04- 22 14:03:03: ; Temperatura interna central: 47.30C
+2024-04- 22 14:03:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 14:03:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 14:03:03: ; Temperatura do Sensor IR: 59.25C
+2024-04- 22 14:04:03: ; Temperatura interna central: 47.20C
+2024-04- 22 14:04:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 14:04:03: ; Temperatura do chassi: 43.25C
+2024-04- 22 14:04:03: ; Temperatura do Sensor IR: 60.00C
+2024-04- 22 14:05:03: ; Temperatura interna central: 47.10C
+2024-04- 22 14:05:03: ; Temperatura interna lateral: 47.30C
+2024-04- 22 14:05:03: ; Temperatura do chassi: 43.00C
+2024-04- 22 14:05:03: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 14:06:03: ; Temperatura interna central: 47.10C
+2024-04- 22 14:06:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 14:06:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:06:03: ; Temperatura do Sensor IR: 60.75C
+2024-04- 22 14:07:03: ; Temperatura interna central: 47.10C
+2024-04- 22 14:07:03: ; Temperatura interna lateral: 47.10C
+2024-04- 22 14:07:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:07:03: ; Temperatura do Sensor IR: 60.25C
+2024-04- 22 14:08:03: ; Temperatura interna central: 47.20C
+2024-04- 22 14:08:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 14:08:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:08:03: ; Temperatura do Sensor IR: 61.00C
+2024-04- 22 14:09:03: ; Temperatura interna central: 47.30C
+2024-04- 22 14:09:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 14:09:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:09:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 14:10:03: ; Temperatura interna central: 47.50C
+2024-04- 22 14:10:03: ; Temperatura interna lateral: 47.60C
+2024-04- 22 14:10:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:10:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 14:11:03: ; Temperatura interna central: 47.60C
+2024-04- 22 14:11:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 14:11:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:11:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 14:12:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:12:03: ; Temperatura interna lateral: 47.70C
+2024-04- 22 14:12:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:12:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 14:13:03: ; Temperatura interna central: 47.80C
+2024-04- 22 14:13:03: ; Temperatura interna lateral: 47.60C
+2024-04- 22 14:13:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:13:03: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 14:14:03: ; Temperatura interna central: 47.80C
+2024-04- 22 14:14:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 14:14:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:14:03: ; Temperatura do Sensor IR: 60.50C
+2024-04- 22 14:15:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:15:03: ; Temperatura interna lateral: 47.30C
+2024-04- 22 14:15:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:15:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 14:16:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:16:03: ; Temperatura interna lateral: 47.10C
+2024-04- 22 14:16:03: ; Temperatura do chassi: 43.50C
+2024-04- 22 14:16:03: ; Temperatura do Sensor IR: 61.75C
+2024-04- 22 14:17:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:17:03: ; Temperatura interna lateral: 47.00C
+2024-04- 22 14:17:03: ; Temperatura do chassi: 43.75C
+2024-04- 22 14:17:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 14:18:03: ; Temperatura interna central: 47.70C
+2024-04- 22 14:18:03: ; Temperatura interna lateral: 47.10C
+2024-04- 22 14:18:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:18:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 14:19:03: ; Temperatura interna central: 47.80C
+2024-04- 22 14:19:03: ; Temperatura interna lateral: 47.20C
+2024-04- 22 14:19:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:19:03: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 14:20:03: ; Temperatura interna central: 47.90C
+2024-04- 22 14:20:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 14:20:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:20:03: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 14:21:03: ; Temperatura interna central: 48.10C
+2024-04- 22 14:21:03: ; Temperatura interna lateral: 47.70C
+2024-04- 22 14:21:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:21:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 14:22:03: ; Temperatura interna central: 48.20C
+2024-04- 22 14:22:03: ; Temperatura interna lateral: 47.90C
+2024-04- 22 14:22:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:22:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 14:23:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:23:03: ; Temperatura interna lateral: 47.90C
+2024-04- 22 14:23:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:23:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 14:24:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:24:03: ; Temperatura interna lateral: 47.80C
+2024-04- 22 14:24:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:24:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 14:25:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:25:03: ; Temperatura interna lateral: 47.70C
+2024-04- 22 14:25:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:25:03: ; Temperatura do Sensor IR: 61.25C
+2024-04- 22 14:26:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:26:03: ; Temperatura interna lateral: 47.50C
+2024-04- 22 14:26:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:26:03: ; Temperatura do Sensor IR: 62.00C
+2024-04- 22 14:27:03: ; Temperatura interna central: 48.20C
+2024-04- 22 14:27:03: ; Temperatura interna lateral: 47.40C
+2024-04- 22 14:27:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:27:03: ; Temperatura do Sensor IR: 62.25C
+2024-04- 22 14:28:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:28:03: ; Temperatura interna lateral: 47.40C
+2024-04- 22 14:28:03: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:28:03: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 14:29:03: ; Temperatura interna central: 48.30C
+2024-04- 22 14:29:03: ; Temperatura interna lateral: 47.60C
+2024-04- 22 14:29:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:29:03: ; Temperatura do Sensor IR: 63.00C
+2024-04- 22 14:30:03: ; Temperatura interna central: 48.50C
+2024-04- 22 14:30:03: ; Temperatura interna lateral: 47.90C
+2024-04- 22 14:30:03: ; Temperatura do chassi: 44.75C
+2024-04- 22 14:30:03: ; Temperatura do Sensor IR: 64.00C
+2024-04- 22 14:31:03: ; Temperatura interna central: 48.60C
+2024-04- 22 14:31:03: ; Temperatura interna lateral: 48.20C
+2024-04- 22 14:31:03: ; Temperatura do chassi: 44.75C
+2024-04- 22 14:31:03: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 14:32:03: ; Temperatura interna central: 48.70C
+2024-04- 22 14:32:03: ; Temperatura interna lateral: 48.50C
+2024-04- 22 14:32:03: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:32:03: ; Temperatura do Sensor IR: 63.50C
+2024-04- 22 14:33:03: ; Temperatura interna central: 48.80C
+2024-04- 22 14:33:03: ; Temperatura interna lateral: 48.60C
+2024-04- 22 14:33:03: ; Temperatura do chassi: 44.50C
+2024-04- 22 14:33:03: ; Temperatura do Sensor IR: 62.50C
+2024-04- 22 14:34:04: ; Temperatura interna central: 48.80C
+2024-04- 22 14:34:04: ; Temperatura interna lateral: 48.60C
+2024-04- 22 14:34:04: ; Temperatura do chassi: 44.00C
+2024-04- 22 14:34:04: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 14:35:04: ; Temperatura interna central: 48.80C
+2024-04- 22 14:35:04: ; Temperatura interna lateral: 48.50C
+2024-04- 22 14:35:04: ; Temperatura do chassi: 44.75C
+2024-04- 22 14:35:04: ; Temperatura do Sensor IR: 61.50C
+2024-04- 22 14:36:04: ; Temperatura interna central: 48.80C
+2024-04- 22 14:36:04: ; Temperatura interna lateral: 48.30C
+2024-04- 22 14:36:04: ; Temperatura do chassi: 43.75C
+2024-04- 22 14:36:04: ; Temperatura do Sensor IR: 62.75C
+2024-04- 22 14:37:04: ; Temperatura interna central: 48.70C
+2024-04- 22 14:37:04: ; Temperatura interna lateral: 48.10C
+2024-04- 22 14:37:04: ; Temperatura do chassi: 44.25C
+2024-04- 22 14:37:04: ; Temperatura do Sensor IR: 63.25C
+2024-04- 22 14:38:04: ; Temperatura interna central: 48.70C
+2024-04- 22 14:38:04: ; Temperatura interna lateral: 48.10C
+2024-04- 22 14:38:04: ; Temperatura do chassi: 44.75C
+2024-04- 22 14:38:04: ; Temperatura do Sensor IR: 63.75C
+2024-04- 22 14:47:49: ; Temperatura interna central: 46.70C
+2024-04- 22 14:47:49: ; Temperatura interna lateral: 44.20C
+2024-04- 22 14:47:49: ; Temperatura do chassi: 41.25C
+2024-04- 22 14:47:49: ; Temperatura do Sensor IR: 55.50C
